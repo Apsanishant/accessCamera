@@ -1,0 +1,11 @@
+{
+  "name": "camera-access",
+  "version": "1.0.0",
+  "description": "This will help you to access camera",
+  "main": "camera.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant Sharma",
+  "license": "ISC"
+}
